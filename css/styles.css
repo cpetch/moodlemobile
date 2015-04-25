@@ -45,7 +45,7 @@ body {
   font-size: 16px;
   font-size: 1rem;
   line-height: 24px;
-  background: #e0dbfe url(../img/bg-pink.png);
+  background: #a496fe url(../img/bg-pink.png);
 }
 /* =1.3 - Links
 --------------------------------------------------------*/
@@ -513,7 +513,7 @@ hr {
   height: 44px;
   line-height: 44px;
   overflow: hidden;
-  background: #e0dbfe;
+  background: #a496fe;
   border-bottom: 0;
 }
 .header-main .nav-main {
@@ -595,13 +595,13 @@ hr {
 /* - User menu on the left panel
 -------------------------------------------------------------------------- */
 .user-menu {
-  background: #e0dbfe;
+  background: #a496fe;
   padding-bottom: 40px;
   height: auto;
 }
 .user-menu header {
   padding: 10px;
-  background: #e0dbfe;
+  background: #a496fe;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: none;
 }
@@ -1182,12 +1182,12 @@ hr {
 }
 .path-messages .conversation .conversation-area .bubble-alt {
   background-color: #ffffff;
-  border-color: #e0dbfe;
+  border-color: #a496fe;
   float: right;
 }
 .path-messages .conversation .conversation-area .bubble-alt:before {
   border-color: transparent;
-  border-left-color: #e0dbfe;
+  border-left-color: #a496fe;
   left: auto;
   right: -16px;
 }
@@ -1585,7 +1585,7 @@ hr {
   letter-spacing: .5px;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   padding: 10px;
-  background-color: #e0dbfe;
+  background-color: #a496fe;
   -webkit-border-radius: 10px 10px 0 0;
   -moz-border-radius: 10px 10px 0 0;
   border-radius: 10px 10px 0 0;
@@ -1900,7 +1900,7 @@ div.jqi button.jqidefaultbutton {
   width: 100% !important;
   height: 100%;
   margin-top: 0 !important;
-  background-color: #e0dbfe;
+  background-color: #a496fe;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
